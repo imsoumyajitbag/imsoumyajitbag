@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Soumyajit Bag
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning CS Engineering
+- 💞️ I’m looking to collaborate on ...
+- 📫 Email: sounyajitbag1905@gmail.com
